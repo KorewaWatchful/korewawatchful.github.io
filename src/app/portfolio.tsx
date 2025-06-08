@@ -452,9 +452,6 @@ export default function Portfolio() {
                     ))}
                   </ol>
                   <div className="mt-12">
-                    <ExternalLinkButton href="/Resume.pdf">
-                      View Resume
-                    </ExternalLinkButton>
                   </div>
                 </div>
               </section>
